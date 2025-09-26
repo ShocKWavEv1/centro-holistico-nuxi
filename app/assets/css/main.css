@@ -1,0 +1,27 @@
+@import url(../../../public/fonts/fonts.css);
+
+@import "tailwindcss";
+
+@theme {
+  --font-headlines: "PPRadioGrotesk", "sans";
+  --font-lettra: "PPLettraMono", "serif";
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+*::selection {
+  background-color: red;
+  color: white;
+}
+
+html,
+body {
+  @apply bg-zinc-950 text-white;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}

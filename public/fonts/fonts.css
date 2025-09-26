@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "PPLettraMono";
+  src: url("/fonts/museum/PPLettraMono-Ultralight.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PPLettraMono";
+  src: url("/fonts/museum/PPLettraMono-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PPLettraMono";
+  src: url("/fonts/museum/PPLettraMono-Medium..woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PPLettraMono";
+  src: url("/fonts/museum/PPLettraMono-Ultrabold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PPRadioGrotesk";
+  src: url("/fonts/radio/PPRadioGrotesk-Ultralight.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PPRadioGrotesk";
+  src: url("/fonts/radio/PPRadioGrotesk-Light.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PPRadioGrotesk";
+  src: url("/fonts/radio/PPRadioGrotesk-Regular.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PPRadioGrotesk";
+  src: url("/fonts/radio/PPRadioGrotesk-Bold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PPRadioGrotesk";
+  src: url("/fonts/radio/PPRadioGrotesk-Black.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
