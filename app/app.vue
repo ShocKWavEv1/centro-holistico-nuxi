@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-full h-[100svh] flex flex-col gap-[12px] items-center justify-center bg-zinc-950"
+    class="w-full h-[100svh] flex flex-col gap-[12px] items-center justify-center"
   >
     <NuxtRouteAnnouncer />
     <h1 class="text-9xl text-white font-headlines font-[300]">
