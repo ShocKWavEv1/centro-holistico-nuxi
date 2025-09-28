@@ -1,0 +1,17 @@
+<template>
+  <div class="w-full flex flex-col gap-[24px]">
+    <div
+      class="w-full h-[100svh] flex flex-col gap-[12px] items-center justify-center"
+    >
+      <NuxtRouteAnnouncer />
+      <h1
+        class="text-9xl text-zinc-950 font-lettra font-[300] tracking-[-1rem]"
+      >
+        Portfolio
+      </h1>
+      <h1 class="text-2xl text-zinc-950 font-headlines">
+        NUXT 4 & TailwindCSS 4
+      </h1>
+    </div>
+  </div>
+</template>
