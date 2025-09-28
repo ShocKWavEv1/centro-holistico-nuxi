@@ -6,10 +6,7 @@
       <h1
         class="text-9xl text-zinc-950 font-lettra font-[300] tracking-[-1rem]"
       >
-        Centro Holístico - Home
-      </h1>
-      <h1 class="text-2xl text-zinc-950 font-headlines">
-        NUXT 4 & TailwindCSS 4
+        Home
       </h1>
     </div>
   </div>

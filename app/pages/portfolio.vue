@@ -9,9 +9,6 @@
       >
         Portfolio
       </h1>
-      <h1 class="text-2xl text-zinc-950 font-headlines">
-        NUXT 4 & TailwindCSS 4
-      </h1>
     </div>
   </div>
 </template>
