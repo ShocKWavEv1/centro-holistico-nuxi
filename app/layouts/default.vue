@@ -17,7 +17,7 @@
         <NuxtLink to="/services" prefetch>Services</NuxtLink>
       </div>
     </header>
-    <main class="w-full flex-1 p-[20px] flex flex-col">
+    <main class="w-full flex flex-col">
       <slot />
     </main>
     <footer
